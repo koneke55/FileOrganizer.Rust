@@ -10,7 +10,7 @@ A production-ready file organizer written in Rust that automatically sorts files
 - **Clean structure**: Well-organized code with separation of concerns
 - **Extensible**: Easy to add new file categories and customization
 - **Dry run mode**: Preview changes before actually moving files
-   
+            
 ## 📁 Supported File Categories
 
 - **Images**: jpg, jpeg, png, gif, bmp, tiff, webp, svg, ico
