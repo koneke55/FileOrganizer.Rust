@@ -1,5 +1,5 @@
 # File Organizer (Rust)  
-
+   
 A production-ready file organizer written in Rust that automatically sorts files by type into organized folders.
       
 ## 🚀 Features
